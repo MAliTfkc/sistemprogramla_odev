@@ -1,0 +1,7 @@
+tarsau
+*.o
+*.sau
+*.bin
+cikti/
+t1.txt
+t2.txt
